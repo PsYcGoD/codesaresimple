@@ -1,105 +1,165 @@
-# Codes Are Simple
+<p align="center">
+  <img src="https://codingforsurvival.com/assets/Logo.png" alt="Codes Are Simple Logo" width="200"/>
+</p>
 
-[![Live Site](https://img.shields.io/badge/Live-codesaresimple.marketingstudios.in-ffb02e?style=for-the-badge)](https://codesaresimple.marketingstudios.in/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-45e38a?style=for-the-badge)](LICENSE)
-[![Built For Beginners](https://img.shields.io/badge/Built%20For-True%20Beginners-23d3ff?style=for-the-badge)](https://codesaresimple.marketingstudios.in/dashboard.html)
+<h1 align="center">🎓 Codes Are Simple</h1>
 
-**Codes Are Simple** is a beginner-first learning hub for people who want to move from zero confidence to real digital skills through interactive, gamified lessons.
+<p align="center">
+  <strong>Free Coding Education for Children Who Can't Afford It</strong>
+</p>
 
-The project is designed especially for learners who may not have touched code before. Every curriculum is meant to teach the concept first, test only what was taught, and reward steady progress with levels, checkpoints, unlocks, trophies, and certificate paths.
+<p align="center">
+  <a href="https://codingforsurvival.com">🌐 Live Platform</a> •
+  <a href="#-courses">📚 Courses</a> •
+  <a href="#-features">✨ Features</a> •
+  <a href="#-mission">🎯 Mission</a>
+</p>
 
-> Live platform: [codesaresimple.marketingstudios.in](https://codesaresimple.marketingstudios.in/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Courses-21-blue?style=for-the-badge" alt="Courses"/>
+  <img src="https://img.shields.io/badge/Sessions-100+-green?style=for-the-badge" alt="Sessions"/>
+  <img src="https://img.shields.io/badge/Price-FREE-brightgreen?style=for-the-badge" alt="Free"/>
+  <img src="https://img.shields.io/badge/License-Educational-orange?style=for-the-badge" alt="License"/>
+</p>
 
-## Why This Exists
+---
 
-Many coding courses accidentally start at level two. They explain syntax before explaining why the symbols exist. They ask questions about concepts the learner has not been taught yet. They make beginners feel like the problem is their brain.
+## 🎯 Mission
 
-Codes Are Simple is built with the opposite promise:
+**Codes Are Simple** is a non-profit educational platform dedicated to teaching coding to children from underprivileged backgrounds. We believe every child deserves access to quality technology education, regardless of their financial situation.
 
-- Explain every symbol before asking the learner to use it.
-- Teach one idea at a time.
-- Ask only from the current lesson.
-- Give multiple attempts and a relearn path.
-- Keep pricing accessible for Indian learners.
-- Turn learning into visible progress, not silent confusion.
+> *"The best time to plant a tree was 20 years ago. The second best time is now."*  
+> — Our students are the seeds of tomorrow's tech leaders.
 
-## Current Learning Paths
+---
 
-| Curriculum | Focus | Status |
-| --- | --- | --- |
-| Coding From Zero | Absolute beginner logic, print, variables, input, conditions, loops | Open |
-| Learn HTML & JavaScript | Web pages, styling, forms, DOM, storage, APIs, capstone app | Open |
-| Python Projects | Files, APIs, automation, databases, testing, packages, async, security | Open |
-| Learn Android | Mobile app fundamentals, UI, data, publishing basics | Open |
-| Learn AI Tools | AI workflows, prompting, automation, AI app thinking, responsible usage | Open |
+## 📚 Courses
 
-More curricula are prepared to grow into the same interactive format.
+### 🔰 Foundation Track (White Tie)
+Perfect for absolute beginners with zero coding experience.
 
-## Learner Benefits
+| Course | Sessions | Description |
+|--------|----------|-------------|
+| **Coding From Zero** | 5 | Start with `print("Hello!")` and build to real programs |
+| **Python Projects** | 5 | Build Greeter Bot, Calculator, and more |
+| **Learn HTML** | 5 | Create your first websites |
+| **Learn Java** | 5 | Object-oriented programming basics |
+| **HTML & JavaScript** | 5 | Interactive web pages |
 
-- **True beginner onboarding:** Starts from the reason behind syntax, not memorization.
-- **Interactive checks:** Four-option checkpoints after each taught level.
-- **No answer leakage:** Answers are not shown before the learner tries.
-- **Relearn flow:** Three attempts, then a short pause to reread and try again.
-- **Gamification:** XP, session trophies, unlock gates, and progress tracking.
-- **Certificate path:** Each curriculum has a certificate direction after completion.
-- **Low-cost access:** India pricing is intentionally kept affordable for learners who need opportunity, not gatekeeping.
+### 🚀 Advanced Track (Black Tie)
+For students ready to level up their skills.
 
-## Who It Helps
+| Course | Sessions | Description |
+|--------|----------|-------------|
+| **Android Development** | 5 | Build mobile apps |
+| **AI & Machine Learning** | 5 | Introduction to artificial intelligence |
+| **Automation** | 5 | Automate boring tasks |
+| **Databases** | 5 | SQL and data management |
+| **Cloud & Deployment** | 5 | Deploy apps to the internet |
+| **Ethical Hacking** | 5 | Cybersecurity fundamentals |
 
-Codes Are Simple is for:
+### 💼 Career Track (Gold Tie)
+Prepare for the real world.
 
-- First-time coders.
-- Students from non-technical backgrounds.
-- Working adults changing careers.
-- Parents looking for structured digital learning.
-- Small business owners who want to understand websites, automation, and AI.
-- Learners who need patient teaching instead of intimidating jargon.
+| Course | Sessions | Description |
+|--------|----------|-------------|
+| **Git & GitHub** | 5 | Version control mastery |
+| **API Integrations** | 5 | Connect services together |
+| **Data Analytics** | 5 | Make sense of data |
+| **Web Design** | 5 | Beautiful, responsive sites |
+| **Freelancing & Portfolio** | 5 | Start earning money |
+| **Digital Literacy** | 5 | Essential computer skills |
 
-## Platform Principles
+---
 
-1. **Teach before testing.** Every question must be backed by lesson content.
-2. **Small steps win.** A session is broken into levels so learners can feel progress.
-3. **Respect the learner.** Wrong answers should guide, not shame.
-4. **Practical skills matter.** Curricula should connect to real work and projects.
-5. **Security matters.** Payments, sign-in, and learner data should be handled carefully.
+## ✨ Features
 
-## Repository Scope
+### 🎮 Gamified Learning
+- **XP System** — Earn experience points for every lesson
+- **Badges** — Unlock achievements as you progress
+- **Levels** — Track your journey from beginner to expert
+- **Leaderboards** — Compete with other learners
 
-This repository is intentionally lightweight.
+### 📖 Interactive Lessons
+- **Step-by-Step Teaching** — Every concept explained simply
+- **Live Code Examples** — See code run in real-time
+- **Practice Exercises** — Hands-on coding in every lesson
+- **Quizzes** — Test your understanding (21 questions per session)
 
-It is a public-facing project profile for Codes Are Simple, not a source-code dump. The live application, private credentials, payment settings, and deployment internals are not included here.
+### 🛠️ Real Projects
+Each course culminates in building real, working projects:
+- 🤖 **Greeter Bot** — Your first Python chatbot
+- 🧮 **Calculator** — A fully functional calculator app
+- 🌐 **Portfolio Website** — Showcase your work
+- 📱 **Android App** — A real mobile application
+- 🔐 **Security Scanner** — Basic security tool
 
-Included:
+### 👨‍🏫 Designed for Self-Learning
+- No teacher required
+- Clear, jargon-free explanations
+- "Explain like I'm 5" approach
+- 1-hour sessions (8-10 concepts each)
+- Checkpoint reviews every few levels
 
-- Project README.
-- MIT license.
-- Safety `.gitignore`.
+---
 
-Not included:
+## 🏗️ Tech Stack
 
-- API keys or secrets.
-- Payment credentials.
-- Private learner data.
-- Build outputs.
-- Local certificates.
-- Generated course files.
+```
+Frontend     →  HTML5, CSS3, Vanilla JavaScript
+Backend      →  Cloudflare Workers
+Database     →  Cloudflare D1 (SQLite)
+Auth         →  Supabase
+Hosting      →  Cloudflare Pages
+```
 
-## Roadmap
+---
 
-- Stronger learner dashboard analytics.
-- More practical capstone projects.
-- Admin tools for assigning sessions and resetting progress.
-- Better certificate delivery after verified completion.
-- Expanded curricula for AI, Android, ethical hacking, machine learning, automation, marketing, and data analysis.
+## 📊 Platform Stats
 
-## Brand
+- **21** Complete Courses
+- **100+** Sessions
+- **1000+** Practice Exercises
+- **2000+** Quiz Questions
+- **Zero** Cost to Students
 
-**Codes Are Simple**  
-Learning should feel possible.
+---
 
-Website: [https://codesaresimple.marketingstudios.in](https://codesaresimple.marketingstudios.in)
+## 🤝 Contributing
 
-## License
+We welcome contributions! Whether you're fixing bugs, improving documentation, or creating new content — every bit helps.
 
-This repository is licensed under the [MIT License](LICENSE).
+```bash
+# Clone the repository
+git clone https://github.com/PsYcGoD/codesaresimple.git
+
+# Navigate to the project
+cd codesaresimple
+
+# Start developing
+# (See CONTRIBUTING.md for guidelines)
+```
+
+---
+
+## 📞 Contact
+
+- 🌐 **Website**: [codingforsurvival.com](https://codingforsurvival.com)
+- 📧 **Email**: support@codingforsurvival.com
+- 💬 **Discord**: Coming Soon
+
+---
+
+## 📜 License
+
+This project is licensed for **educational purposes only**. The curriculum content is free to use for non-commercial educational initiatives helping underprivileged children learn to code.
+
+---
+
+<p align="center">
+  <strong>Made with ❤️ for children who deserve a chance</strong>
+</p>
+
+<p align="center">
+  <sub>Teaching the world to code, one child at a time.</sub>
+</p>
