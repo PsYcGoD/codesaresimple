@@ -18,6 +18,17 @@ BLACK TIE UNLOCKED
 PLATINUM TIE UNLOCKED (for THAT curriculum only)
 ```
 
+## Learning Path Structure
+
+```
+L1 → L2 → CHECKPOINT1 � L3→ TASK1 → L4 → CHECKPOINT2 → L5 → L6 → CHECKPOINT3 → TASK2 → L7 → L8 → CHECKPOINT4 → L9 → TASK3 → L10 → CAPSTONE
+```
+
+- **L1-L10**: Lessons
+- **CHECKPOINT1-4**: Progress verification quizzes
+- **TASK1-3**: Hands-on practice assignments
+- **CAPSTONE**: Final project
+
 ## Requirements Summary
 
 | Tier | Sessions | Quiz Score | Capstones |
