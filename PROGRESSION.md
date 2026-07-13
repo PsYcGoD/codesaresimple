@@ -3,7 +3,7 @@
 ```
 WHITE TIE (purchased/enrolled)
     │
-    ├── Complete ALL sessions (5 or 10) ALL Curriculum
+    ├── Complete ALL 5 sessions
     ├── Pass ALL quizzes (95% = miss 1 per quiz OK)
     ├── Complete ALL capstone projects
     │
@@ -22,7 +22,7 @@ PLATINUM TIE UNLOCKED (for THAT curriculum only)
 
 | Tier | Sessions | Quiz Score | Capstones |
 |------|----------|------------|-----------|
-| White Tie | All (5-10) | 95% min | All |
+| White Tie | All 5 | 95% min | All |
 | Black Tie | All 5 | 95% min | All |
 | Platinum Tie | Auto-unlocked | - | - |
 
